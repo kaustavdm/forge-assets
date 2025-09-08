@@ -1,3 +1,11 @@
+/* Indentation for nested lists */
+ul ul {
+  margin-left: 2em;
+  list-style-type: disc;
+}
+ol ol, ul ol, ol ul {
+  margin-left: 2em;
+}
 * {
   margin: 0;
   padding: 0;

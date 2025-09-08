@@ -1,6 +1,8 @@
 # Twilio Serverless
 .twiliodeployinfo
 
+.DS_Store
+
 # Logs
 logs
 *.log
